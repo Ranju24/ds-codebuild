@@ -22,6 +22,7 @@ apt-get install -y nodejs
 apt-get install -y python3 python3-pip
 # Install Python packages
 pip3 install alembic pymysql awscli
+pip3 install awscli
 # Install serverless globally
 npm install -g serverless
 # Verify installations (optional, for debugging)
