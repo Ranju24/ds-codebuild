@@ -31,4 +31,4 @@ pip3 --version
 docker --version
 node --version
 npm --version
-aws --version
+
